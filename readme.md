@@ -1,4 +1,4 @@
-#parcel-plugin-atomic
+# parcel-plugin-atomic
 
 Parcel plugin for Atomic CSS.
 
